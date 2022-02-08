@@ -11,3 +11,6 @@ now come dont commit liao.
 ## Deployment
 never commit just now, now still edit more stuff.
 ## How to Contribute
+
+###Copyright
+whatever 
