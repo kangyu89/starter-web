@@ -1,6 +1,6 @@
 # Starter Web Project
 
-adding a line for rebasing example. Now I add on feature branch after rebase. 
+adding a line for rebasing example. Now I add on feature branch after rebase.
 
 ## Intro
 ajsdkfl kjklasd;f
@@ -14,4 +14,4 @@ never commit just now, now still edit more stuff.
 please fork this repo and then issue pull requests
 
 ###Copyright
-whatever
+"Emergency Fix"
