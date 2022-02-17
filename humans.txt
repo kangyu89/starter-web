@@ -9,8 +9,9 @@
 
     Thanks students and ahbat.
     Please review and like this course.
-    
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
