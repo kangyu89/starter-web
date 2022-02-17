@@ -1,6 +1,6 @@
 # Starter Web Project
 
-adding a line for rebasing example. Now I add on feature branch after rebase.
+adding a line for rebasing example. Emergency fix for stashing example.
 
 ## Intro
 ajsdkfl kjklasd;f
